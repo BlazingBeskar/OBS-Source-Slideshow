@@ -13,7 +13,7 @@ Features
 Setup Instructions
 
     Download the Script:
-        Save the provided Lua script to a location on your computer.
+        Save the provided obsslideshow.lua script to a location on your computer.
 
     Add the Script to OBS:
         Open OBS Studio.
