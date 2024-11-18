@@ -1,7 +1,4 @@
-# OBS-Source-Slideshow
-An OBS Script to toggle sources in a scene like a slideshow
-
-# OBS Lua Script: Source Slideshow Toggle
+# OBS Lua Script: Source Toggle Slideshow
 
 This script for OBS Studio toggles sources in a specified scene, simulating a slideshow effect. Each source is displayed for a configurable duration, followed by a brief off-duration before the next source appears.
 
