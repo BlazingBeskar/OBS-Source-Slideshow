@@ -1,5 +1,7 @@
 obs = obslua
 
+-- Made by BlazingBeskar, Credit is appreciated but not required, feel free to use however you like.
+
 -- Settings
 settings = {
     scene_name = "",    -- Scene containing the sources to be toggled
