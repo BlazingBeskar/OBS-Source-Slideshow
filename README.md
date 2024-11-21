@@ -4,7 +4,7 @@ This script for OBS Studio toggles sources in a specified scene, simulating a sl
 
 Credit is appreciated but not required, feel free to use however you like.
 
-Türkçe için [buraya](./Kılavuz.md) tıklayın.
+Türkçe için [buraya](./Kilavuz.md) tıklayın.
 
 ---
 
