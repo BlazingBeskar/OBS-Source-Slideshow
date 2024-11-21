@@ -2,6 +2,7 @@
 
 This script for OBS Studio toggles sources in a specified scene, simulating a slideshow effect. Each source is displayed for a configurable duration, followed by a brief off-duration before the next source appears.
 
+Credit is appreciated but not required, feel free to use however you like.
 ---
 
 ## Features
